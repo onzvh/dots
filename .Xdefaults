@@ -1,0 +1,44 @@
+URxvt.scrollBar: false
+URxvt.font:xft:Terminus:style=Regular:size=9
+URxvt.boldfont:xft:Terminus:style=Bold:size=9
+
+
+
+
+! special
+*.foreground:   #d0d4e1
+*.background:   #07090f
+*.cursorColor:  #d0d4e1
+
+! black
+*.color0:       #0e1119
+*.color8:       #a3942a
+
+! red
+*.color1:       #171b26
+*.color9:       #7b9ef4
+
+! green
+*.color2:       #262c3c
+*.color10:      #488d5b
+
+! yellow
+*.color3:       #3c445a
+*.color11:      #ae9f39
+
+! blue
+*.color4:       #576281
+*.color12:      #c84db8
+
+! magenta
+*.color5:       #7a86ac
+*.color13:      #4db16b
+
+! cyan
+*.color6:       #aab1ca
+*.color14:      #81a1f2
+
+! white
+*.color7:       #e0e2eb
+*.color15:      #c846b7
+
